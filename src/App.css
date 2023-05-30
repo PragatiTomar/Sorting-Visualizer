@@ -1,0 +1,70 @@
+.App {
+	text-align: center;
+}
+
+.head{
+  text-align: center;
+  padding-top: 50px ;
+  color: rgb(163, 235, 29);
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.frame {
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  
+}
+
+.container {
+  
+	margin: 5em 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 220px;
+ 
+}
+
+.card {
+	border-radius: 2em;
+	padding: 0 1em;
+	background-color: #000000;
+}
+
+.controller {
+	background: rgb(122, 105, 105);
+	margin: 0 1em;
+	border: 1px solid;
+	height: 3em;
+	width: 3em;
+	border-radius: 10px;
+	background: rgb(22, 216, 32);
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.control-buttons {
+	height: 4em;
+	width: 15em;
+	background-color: rgb(219, 208, 208);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  border-radius: 10px;
+}
+
+.control-pannel {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  /* background-color: aqua; */
+}
+
+.pannel {
+  
+}
